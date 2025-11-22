@@ -57,7 +57,7 @@ This project is built on rigorous academic research:
 - Predictive Analytics for Cyber Threat Intelligence in Fintech (IJRPR, Nov 2024)
 - Verizon DBIR 2024, IBM X-Force Threat Intelligence 2024
 
-### The Gap We Fill
+### The Gap the project Fills
 
 > *"Despite the growing body of research, there remains a **lack of standardized cyber impact taxonomy** for quantifying the multidimensional impacts of cybersecurity threats in the FinTech sector."*
 > — Systematic Review (2023)
