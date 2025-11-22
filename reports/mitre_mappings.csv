@@ -1,0 +1,47 @@
+incident_id,title,tactic_id,tactic_name,technique_id,technique_name,confidence,severity
+cve_cve_2025_12017,CVE-2025-12017 - FinTech Vulnerability (MEDIUM),TA0008,Lateral Movement,T1021,Remote Services,0.4,medium
+cve_cve_2025_11564,CVE-2025-11564 - FinTech Vulnerability (MEDIUM),TA0008,Lateral Movement,T1021,Remote Services,0.4,medium
+cve_cve_2025_9322,CVE-2025-9322 - FinTech Vulnerability (HIGH),TA0008,Lateral Movement,T1021,Remote Services,0.4,high
+cve_cve_2025_11890,CVE-2025-11890 - FinTech Vulnerability (HIGH),TA0008,Lateral Movement,T1021,Remote Services,0.4,high
+cve_cve_2025_11835,CVE-2025-11835 - FinTech Vulnerability (MEDIUM),TA0008,Lateral Movement,T1021,Remote Services,0.4,medium
+cve_cve_2025_12788,CVE-2025-12788 - FinTech Vulnerability (MEDIUM),TA0008,Lateral Movement,T1021,Remote Services,0.4,medium
+cve_cve_2025_12633,CVE-2025-12633 - FinTech Vulnerability (HIGH),TA0008,Lateral Movement,T1021,Remote Services,0.4,high
+cve_cve_2025_12903,CVE-2025-12903 - FinTech Vulnerability (HIGH),TA0008,Lateral Movement,T1021,Remote Services,0.4,high
+cve_cve_2025_12979,CVE-2025-12979 - FinTech Vulnerability (MEDIUM),TA0008,Lateral Movement,T1021,Remote Services,0.4,medium
+572c918d3db5acc5,"In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring",TA0010,Exfiltration,T1041,Exfiltration,0.425,
+cve_cve_2025_11890,CVE-2025-11890 - FinTech Vulnerability (HIGH),TA0011,Command and Control,T1071,Command and Control,0.375,high
+cve_cve_2025_12788,CVE-2025-12788 - FinTech Vulnerability (MEDIUM),TA0011,Command and Control,T1071,Command and Control,0.375,medium
+cve_cve_2025_12903,CVE-2025-12903 - FinTech Vulnerability (HIGH),TA0011,Command and Control,T1071,Command and Control,0.375,high
+cve_cve_2025_12979,CVE-2025-12979 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1078,Valid Accounts,0.4,medium
+afbc1d8b2132a3a9,WhatsApp 'Eternidade' Trojan Self-Propagates Through Brazil,TA0001,Initial Access,T1078,Valid Accounts,0.4,
+cve_cve_2025_49958,CVE-2025-49958 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,high
+cve_cve_2025_12017,CVE-2025-12017 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,medium
+cve_cve_2025_11564,CVE-2025-11564 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,medium
+cve_cve_2025_9322,CVE-2025-9322 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,high
+cve_cve_2025_61080,CVE-2025-61080 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,medium
+cve_cve_2025_12612,CVE-2025-12612 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.8999999999999999,medium
+cve_cve_2025_11890,CVE-2025-11890 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,high
+cve_cve_2025_11835,CVE-2025-11835 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,medium
+cve_cve_2025_52773,CVE-2025-52773 - FinTech Vulnerability (CRITICAL),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,critical
+cve_cve_2025_62075,CVE-2025-62075 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,high
+cve_cve_2025_62076,CVE-2025-62076 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,high
+cve_cve_2025_12788,CVE-2025-12788 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,medium
+cve_cve_2025_12633,CVE-2025-12633 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,high
+cve_cve_2025_12903,CVE-2025-12903 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,high
+cve_cve_2025_13057,CVE-2025-13057 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.8999999999999999,medium
+cve_cve_2025_64186,CVE-2025-64186 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.8999999999999999,high
+cve_cve_2025_12979,CVE-2025-12979 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,medium
+cve_cve_2025_13269,CVE-2025-13269 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.8999999999999999,medium
+cve_cve_2025_13270,CVE-2025-13270 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.8999999999999999,medium
+cve_cve_2025_13271,CVE-2025-13271 - FinTech Vulnerability (HIGH),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.8999999999999999,high
+cve_cve_2025_60983,CVE-2025-60983 - FinTech Vulnerability (MEDIUM),TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.6,medium
+24fb7e43013a19cf,Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day,TA0001,Initial Access,T1190,Exploit Public-Facing Application,1.0,
+6495005dfd89f984,"SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance",TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.425,
+108ed8f3e19c9cc0,SquareX and Perplexity Quarrel Over Alleged Comet Browser Vulnerability,TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.425,
+a760b2539e36d04e,"Can a Global, Decentralized System Save CVE Data?",TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.425,
+b3636875fbfe30f7,Bug Bounty Programs Rise as Key Strategic Security Solutions,TA0001,Initial Access,T1190,Exploit Public-Facing Application,0.425,
+8964493a66cbdae5,New Startup Mate Launches With AI-Driven Security Operations Platform,TA0003,Persistence,T1547,Boot or Logon Autostart Execution,0.35,
+afbc1d8b2132a3a9,WhatsApp 'Eternidade' Trojan Self-Propagates Through Brazil,TA0001,Initial Access,T1566,Phishing,0.45,
+4f716e43557ebb29,SEC voluntarily dismisses SolarWinds lawsuit,TA0040,Impact,T1657,Financial Theft,0.45,
+e5eaa38f1edac6d2,US Creates 'Strike Force' to Take Out SE Asian Scam Centers,TA0040,Impact,T1657,Financial Theft,0.45,
+8f9d3891783b4f6b,Malicious Npm Packages Abuse Adspect Cloaking in Crypto Scam,TA0040,Impact,T1657,Financial Theft,0.45,
